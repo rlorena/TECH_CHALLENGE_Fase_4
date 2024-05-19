@@ -1,0 +1,12 @@
+pandas>=1.3.5
+streamlit>=1.33.0
+plotly.express
+numpy
+datetime
+prophet
+statsmodels
+
+joblib
+matplotlib
+scikit-learn
+
