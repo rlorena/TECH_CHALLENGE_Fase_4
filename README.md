@@ -7,4 +7,4 @@ visa prever com a menor margem de erro o preço do petróleo.
 Para a visualização das informações gráficas e suas analises foi criado
 um ambiente virtual no Streamlit.
 
- Streamlit: https://techchallengefase4-git.streamlit.app
+ Streamlit: https://techchallengefase4-git.streamlit.app/
