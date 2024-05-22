@@ -8,3 +8,6 @@ Para a visualização das informações gráficas e suas analises foi criado
 um ambiente virtual no Streamlit.
 
  Streamlit: https://techchallengefase4-git.streamlit.app/
+
+Link Streamlit:(válido)
+https://techchallengefase4-fiap.streamlit.app/#149a519d
